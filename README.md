@@ -1,9 +1,17 @@
 - 👋 Hi, I’m Anastasiia.
-- 👀 I’m interested in Front-end development and Software engineering.
+- 👀 I’m interested in Frontend development.
 - 🌱 I’m currently on the path of learning JavaScript(in-depth) and interviewing for my next opportunity.
 - 👩‍💻 My tech stack: 
   - Front-end - JavaScript(ES6), HTML, CSS (Less, Sass), React.js, Bootstrap, npm, git, Webpack, Vite.
   - Back-end - Data Structures, Algorithms, Python, Flask, Django, SQL, C.
 - 💻 Examples of my work: 
-  - [Portfolio](https://anastasiia-smith.github.io/)
+  - [MIT Living Labs](https://drive.google.com/drive/folders/1H8ZNGhq-veYrdH0yzX65pSZGO5KPT25g?usp=drive_link)
+  - [Aluna Health](https://drive.google.com/drive/folders/1Bxqw8VL-OtyCq8ddpFU7COzXoa5WEkFT?usp=drive_link)
+  - [Insidetracker](https://www.insidetracker.com/)
+  - [Volna-media](https://volna-media.ru/)
+  - [Virtual keyboard](https://anastasiia-smith.github.io/virtual-keyboard)
+  - [Meme Generator](https://anastasiia-smith.github.io/meme-generator)
+  - [Tenzies](https://anastasiia-smith.github.io/tenzies)
+  - [Quizzical](https://anastasiia-smith.github.io/quizzical/)
+- My codewars:
   - [Codewars](https://www.codewars.com/users/anastasiiasmithdev)
