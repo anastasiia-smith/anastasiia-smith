@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anastasiia.
 - 👀 I’m interested in Frontend development.
-- 🌱 I’m currently on the path of learning JavaScript(in-depth) and interviewing for my next opportunity.
+- 🌱 I’m currently interviewing for my next opportunity.
 - 👩‍💻 My tech stack: 
   - Front-end - JavaScript(ES6), HTML, CSS (Less, Sass), React.js, Bootstrap, npm, git, Webpack, Vite.
   - Back-end - Data Structures, Algorithms, Python, Flask, Django, SQL, C.
