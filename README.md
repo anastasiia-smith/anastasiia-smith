@@ -17,5 +17,3 @@
   - [Tenzies](https://anastasiia-smith.github.io/tenzies)
   - [Meme Generator](https://anastasiia-smith.github.io/meme-generator)
     
-- My codewars:
-  - [Codewars](https://www.codewars.com/users/anastasiiasmithdev)
